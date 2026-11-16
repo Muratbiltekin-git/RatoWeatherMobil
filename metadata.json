@@ -1,0 +1,6 @@
+{
+  "name": "Aura Weather",
+  "description": "Atmospheric glassmorphic weather telemetry, hourly forecasts, interactive radar, and 10-day climate trends.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
